@@ -1,0 +1,2 @@
+1;Apple;Fresh red apple;1
+2;Carbonara pasta;Pasta with becon, parmesan and eggs;5
